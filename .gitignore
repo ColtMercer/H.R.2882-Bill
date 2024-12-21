@@ -170,8 +170,12 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# Allow PDF files
+!data/*.pdf
+
 # Ignore data directories
 data/
 data/chroma_db/
 *.sqlite3
 *.bin
+
