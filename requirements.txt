@@ -10,4 +10,4 @@ tiktoken
 beautifulsoup4
 requests
 PyPDF2 
-sqlite3
+pysqlite3
